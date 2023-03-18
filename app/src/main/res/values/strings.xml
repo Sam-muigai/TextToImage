@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextToImage</string>
+    <string name="prompt">Type a prompt</string>
+    <string name="theme_preference">Theme Preference</string>
+    <string name="settings">Settings</string>
+    <string name="app_version">App v1.0.0</string>
+    <string name="search">Search</string>
+    <string name="clear_text">Clear text</string>
+    <string name="image_loaded">Image Loaded</string>
+    <string name="download_image">DOWNLOAD IMAGE</string>
+    <string name="set_wallpaper">SET AS WALLPAPER</string>
+</resources>
