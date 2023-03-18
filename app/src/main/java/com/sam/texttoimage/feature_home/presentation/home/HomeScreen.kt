@@ -188,6 +188,8 @@ fun Images(
 fun LoadingScreen() {
     val padding = 8.dp
     LazyColumn(
+        modifier = Modifier
+            .semantics { contentDescription = "Loading" },
         contentPadding = PaddingValues(padding),
         verticalArrangement = Arrangement.spacedBy(padding),
     ) {
@@ -196,6 +198,7 @@ fun LoadingScreen() {
         }
         items(6) {
             Image(
+                modifier = Modifier,
                 isVisible = true
             )
         }
