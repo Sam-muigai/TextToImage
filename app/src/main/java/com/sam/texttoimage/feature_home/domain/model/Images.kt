@@ -6,3 +6,9 @@ data class Images(
     val created: Int,
     val data: List<Data>
 )
+
+val fakeData = Images(
+    111,
+    listOf(fakeUrl)
+)
+
