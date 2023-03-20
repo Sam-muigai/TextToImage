@@ -3,6 +3,6 @@ A sample app consuming open AI api to generate images from text.It also allows o
 
 # Screenshots
 
-![screenshot](screenshots/homepage.jpeg)
+![screenshot](screenshots/homepage.jpeg =250x250)
 ![screenshot](screenshots/settings.jpeg)
 ![screenshot](screenshots/detailsPage.jpeg)
