@@ -67,6 +67,7 @@
                 <map>
                   <entry key="192.168.100.3:5555" value="120" />
                   <entry key="Duration" value="90" />
+                  <entry key="TECNO" value="120" />
                   <entry key="TECNO&#10; TECNO KH6" value="120" />
                   <entry key="Tests" value="360" />
                 </map>

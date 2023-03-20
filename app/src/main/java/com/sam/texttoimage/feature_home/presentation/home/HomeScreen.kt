@@ -127,7 +127,10 @@ fun HomeScreen(
                     .padding(8.dp),
                 text = value,
                 placeholder = stringResource(id = R.string.prompt),
-                onClearClicked = onClearClicked,
+                onClearClicked = {
+                    onClearClicked()
+                    focusManager.clearFocus()
+                },
                 onSearch = {
                     focusManager.clearFocus()
                     onSearch()
@@ -167,7 +170,7 @@ fun Images(
     val padding = 8.dp
     LazyColumn(
         modifier = Modifier
-            .semantics { contentDescription = "Generated Images"},
+            .semantics { contentDescription = "Generated Images" },
         contentPadding = PaddingValues(padding),
         verticalArrangement = Arrangement.spacedBy(padding),
         state = lazyColumnState
