@@ -4,3 +4,5 @@ A sample app consuming open AI api to generate images from text.It also allows o
 # Screenshots
 
 ![screenshot](screenshots/homepage.jpeg)
+![screenshot](screenshots/settings.jpeg)
+![screenshot](screenshots/details.jpeg)
