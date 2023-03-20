@@ -3,5 +3,7 @@ A sample app consuming open AI api to generate images from text.It also allows o
 
 # Screenshots
 <img src="screenshots/homepage.png" width="250"/>
+
 ![screenshot](screenshots/settings.jpeg)
+
 ![screenshot](screenshots/detailsPage.jpeg)
