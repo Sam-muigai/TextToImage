@@ -16,6 +16,6 @@ A sample app consuming open AI api to generate images from text.It also allows o
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)- for building UI in a declarative manner.
 * [Jetpack Datastore](https://developer.android.com/topic/libraries/architecture/datastore)- for storing typed objects with protocol buffers.
 * [Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)- React to android lifecycle changes.
-* [Navigation components](https://developer.android.com/jetpack/compose/navigation)- Implement navigation in the app.
+* [Compose destinations](https://github.com/raamcosta/compose-destinations)- Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [Accompanist](https://google.github.io/accompanist/systemuicontroller/)- provides easy-to-use utilities for updating the System UI bar colors within Jetpack Compose
 
